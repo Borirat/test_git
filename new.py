@@ -4,5 +4,5 @@ for i in range (3):
    print(a)
 
 b = 7
-print("not refactor")
+print("refactor")
 
